@@ -55,13 +55,13 @@ header{
 /* ===========media query (MEDIUM DEVICES) ============= */
 @media screen and (max-width:1024px) {
     header{
-        height: 65vh;
+        height: 100vh;
     }
 }
 /* ===========media query (SMMALL DEVICES) ============= */
 @media screen and (max-width:600px) {
     header{
-        height: 90vh;
+        height: 100vh;
     }
     .header_socials,.scroll_down{
         display: none;
