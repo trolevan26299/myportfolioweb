@@ -1,5 +1,5 @@
 header{
-    height: 100vh;
+    height: 47rem;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -59,7 +59,7 @@ header{
 /* ===========media query (MEDIUM DEVICES) ============= */
 @media screen and (max-width:1024px) {
     header{
-        height: 100vh;
+        height: 44rem;
     }
 }
 
