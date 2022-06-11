@@ -37,11 +37,11 @@ const Services = () => {
           </li>
           <li>
             <BiCheck className='service_list-icon'/>
-            <p>Design a simple website using ReactJS,NodeJS and MongoDB</p>
+            <p>Design website using ReactJS,NodeJS (basic)</p>
           </li>
           <li>
             <BiCheck className='service_list-icon'/>
-            <p>Designing applications running on iOS and Android operating systems (Fresher)</p>
+            <p>Design application running on iOS and Android operating systems by React Navtive (Fresher)</p>
           </li>
           
         </ul>

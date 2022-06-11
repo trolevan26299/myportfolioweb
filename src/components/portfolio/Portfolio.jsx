@@ -9,11 +9,11 @@ import IMG6 from '../../assets/img6.png'
 
 const data = [
   {
-    id: 1, image: IMG1, title: 'Cinema Ticket website PHIM247', github: 'https://github.com',
+    id: 1, image: IMG1, title: 'Cinema Ticket website', github: 'https://github.com',
     demo: 'https://dribbble.com/shots/18451124-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
   },
   {
-    id: 2, image: IMG2, title: 'JIRA Website for develop team', github: 'https://github.com',
+    id: 2, image: IMG2, title: 'JIRA Website ', github: 'https://github.com',
     demo: 'https://dribbble.com/shots/18451124-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
   },
   {
@@ -25,11 +25,11 @@ const data = [
     demo: 'https://gameoantixiredux.netlify.app/'
   },
   {
-    id: 5, image: IMG5, title: 'UI/UX WEB NFT Marketplace', github: '#',
+    id: 5, image: IMG5, title: 'UI/UX NFT Market', github: '#',
     demo: 'https://www.behance.net/gallery/145730571/NFTS-MARKETPLACE'
   },
   {
-    id: 6, image: IMG6, title: 'UI/UX Food Application', github: '#',
+    id: 6, image: IMG6, title: 'UI/UX Food App', github: '#',
     demo: 'https://www.behance.net/gallery/145731415/App-Food-UiUx-Design'
   },
 ]
