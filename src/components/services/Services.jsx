@@ -20,10 +20,7 @@ const Services = () => {
             <BiCheck className='service_list-icon'/>
             <p>Application interface design</p>
           </li>
-          <li>
-            <BiCheck className='service_list-icon'/>
-            <p>Support UX research for the system to increase the customer experience on your application</p>
-          </li>
+          
         </ul>
       </article>
       <article className='service'>
@@ -39,10 +36,7 @@ const Services = () => {
             <BiCheck className='service_list-icon'/>
             <p>Design website using ReactJS,NodeJS (basic)</p>
           </li>
-          <li>
-            <BiCheck className='service_list-icon'/>
-            <p>Design application running on iOS and Android operating systems by React Navtive (Fresher)</p>
-          </li>
+        
           
         </ul>
       </article>

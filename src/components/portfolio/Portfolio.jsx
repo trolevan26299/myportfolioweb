@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/img1.png'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG2 from '../../assets/restaurant.png'
 import IMG3 from '../../assets/img3.png'
 import IMG4 from '../../assets/img4.png'
 import IMG5 from '../../assets/img5.png'
@@ -9,12 +9,12 @@ import IMG6 from '../../assets/img6.png'
 
 const data = [
   {
-    id: 1, image: IMG1, title: 'Cinema Ticket website', github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/18451124-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    id: 1, image: IMG1, title: 'Cinema Ticket website', github: 'https://github.com/trolevan26299/cinematicket-Using_React_Redux',
+    demo: 'http://cinematicket.vercel.app/'
   },
   {
-    id: 2, image: IMG2, title: 'JIRA Website ', github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/18451124-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    id: 2, image: IMG2, title: 'Restaurant Website ', github: 'https://github.com/trolevan26299/restaurantProject_Using_React_FireBase',
+    demo: 'https://restaurant-project-gamma.vercel.app/'
   },
   {
     id: 3, image: IMG3, title: 'Game Bau Cua', github: 'https://github.com/trolevan26299/GameBauCua',
