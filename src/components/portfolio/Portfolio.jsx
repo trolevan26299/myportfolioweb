@@ -10,7 +10,7 @@ import IMG6 from '../../assets/img6.png'
 const data = [
   {
     id: 1, image: IMG1, title: 'Cinema Ticket website', github: 'https://github.com/trolevan26299/cinematicket-Using_React_Redux',
-    demo: 'http://cinematicket.vercel.app/'
+    demo: 'https://cinematicket.surge.sh/'
   },
   {
     id: 2, image: IMG2, title: 'Restaurant Website ', github: 'https://github.com/trolevan26299/restaurantProject_Using_React_FireBase',
