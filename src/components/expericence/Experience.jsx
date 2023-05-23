@@ -8,28 +8,16 @@ const Experience = () => {
       <h5>What Skills I Have</h5>
       <h2>My Experience</h2>
       <div className="container experience_container">
-        <div className="experience_ui">
-          <h3>UI/UX Designer</h3>
-          <div className="experience_content">
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>Figma</h4>
-                <small>Intermediate</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>Adobe XD</h4>
-                <small>Intermediate</small>
-              </div>
-            </article>
-          </div>
-        </div>
         <div className="experience_frontend">
           <h3>Frontend Developer</h3>
           <div className="experience_content">
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>UI/UX</h4>
+                <small>Experienced</small>
+              </div>
+            </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
@@ -68,7 +56,7 @@ const Experience = () => {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>Taiwind</h4>
+                <h4>TaiwindCSS</h4>
                 <small>Experienced</small>
               </div>
             </article>
@@ -96,6 +84,46 @@ const Experience = () => {
           </div>
         </div>
         <div className="experience_backend">
+          <h3>Backend Developer</h3>
+          <div className="experience_content">
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>NodeJS (ExpressJS,NestJS)</h4>
+                <small>Experience</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>MongoDB</h4>
+                <small>Experience</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>MySQL</h4>
+                <small>Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Firebase</h4>
+                <small>Basic</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>ORM(Sequelize,Prisma)</h4>
+                <small>Experience</small>
+              </div>
+            </article>
+          </div>
+        </div>
+        <div className="experience_Devops">
           <h3>Backend Developer</h3>
           <div className="experience_content">
             <article className="experience_details">
