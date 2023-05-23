@@ -9,21 +9,6 @@ const Services = () => {
       <div className="container services_container">
         <article className="service">
           <div className="service_head">
-            <h3>UI/UX Design</h3>
-          </div>
-          <ul className="service_list">
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Website interface design</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Application interface design</p>
-            </li>
-          </ul>
-        </article>
-        <article className="service">
-          <div className="service_head">
             <h3>Web Development</h3>
           </div>
           <ul className="service_list">
@@ -34,6 +19,20 @@ const Services = () => {
             <li>
               <BiCheck className="service_list-icon" />
               <p>Building Web API with NodeJS</p>
+            </li>
+          </ul>
+        </article>
+        <article className="service">
+          <div className="service_head">
+            <h3>Devops</h3>
+          </div>
+          <ul className="service_list">
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>
+                Build a complete CI/CD workflow, using a combination of K8S with
+                AWS
+              </p>
             </li>
           </ul>
         </article>
