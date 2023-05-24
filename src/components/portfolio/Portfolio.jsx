@@ -6,14 +6,15 @@ import IMG3 from "../../assets/img3.png";
 import IMG4 from "../../assets/img4.png";
 import IMG5 from "../../assets/img5.png";
 import IMG6 from "../../assets/img6.png";
+import IMG7 from "../../assets/img7.png";
 
 const data = [
   {
     id: 1,
     image: IMG1,
     title: "Cinema Ticket website",
-    github: "http://github.com/trolevan26299/cinematicket-Using_React_Redux",
-    demo: "https://cinematicket.surge.sh/",
+    github: "https://github.com/trolevan26299/cinematicket-Using_React_Redux",
+    demo: "http://cinematicket.surge.sh/",
   },
   {
     id: 2,
@@ -39,13 +40,20 @@ const data = [
   },
   {
     id: 5,
+    image: IMG7,
+    title: "HONDA",
+    github: "https://github.com/trolevan26299/HondaProjectWeb",
+    demo: "https://trolevan26299.github.io/HondaProjectWeb/",
+  },
+  {
+    id: 6,
     image: IMG5,
     title: "UI/UX NFT Market",
     github: "#",
     demo: "https://www.behance.net/gallery/145730571/NFTS-MARKETPLACE",
   },
   {
-    id: 6,
+    id: 7,
     image: IMG6,
     title: "UI/UX Food App",
     github: "#",
