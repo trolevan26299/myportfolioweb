@@ -45,20 +45,20 @@ const data = [
     github: "https://github.com/trolevan26299/HondaProjectWeb",
     demo: "https://trolevan26299.github.io/HondaProjectWeb/",
   },
-  {
-    id: 6,
-    image: IMG5,
-    title: "UI/UX NFT Market",
-    github: "#",
-    demo: "https://www.behance.net/gallery/145730571/NFTS-MARKETPLACE",
-  },
-  {
-    id: 7,
-    image: IMG6,
-    title: "UI/UX Food App",
-    github: "#",
-    demo: "https://www.behance.net/gallery/145731415/App-Food-UiUx-Design",
-  },
+  // {
+  //   id: 6,
+  //   image: IMG5,
+  //   title: "UI/UX NFT Market",
+  //   github: "#",
+  //   demo: "https://www.behance.net/gallery/145730571/NFTS-MARKETPLACE",
+  // },
+  // {
+  //   id: 7,
+  //   image: IMG6,
+  //   title: "UI/UX Food App",
+  //   github: "#",
+  //   demo: "https://www.behance.net/gallery/145731415/App-Food-UiUx-Design",
+  // },
 ];
 
 const Portfolio = () => {

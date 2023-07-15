@@ -15,70 +15,66 @@ const Experience = () => {
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>UI/UX</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Javascript</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>ReactJS</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Bootstrap & Ant</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>TaiwindCSS</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>SASS</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Typescript</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Material UI</h4>
-                <small>Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>NextJS</h4>
               </div>
             </article>
           </div>
@@ -90,89 +86,36 @@ const Experience = () => {
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>NodeJS (ExpressJS,NestJS)</h4>
-                <small>Experience</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>MongoDB</h4>
-                <small>Experience</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>MySQL</h4>
-                <small>Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>Firebase</h4>
-                <small>Basic</small>
+                <h4>ORM(Sequelize,Prisma,Mongoose)</h4>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>ORM(Sequelize,Prisma)</h4>
-                <small>Experience</small>
-              </div>
-            </article>
-          </div>
-        </div>
-        <div className="experience_Devops">
-          <h3>DevOps</h3>
-          <div className="experience_content">
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>Linux</h4>
-                <small>Experience</small>
+                <h4>JWT,Multer,Bcrypt,Swagger...</h4>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Docker</h4>
-                <small>Experience</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>Kubernetes</h4>
-                <small>Experience</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>Monitoring</h4>
-                <small>Experienced</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>CI/CD(Jenkins)</h4>
-                <small>Experienced</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>Cloud(AWS)</h4>
-                <small>Basic</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>Network & Security</h4>
-                <small>Basic</small>
               </div>
             </article>
           </div>
