@@ -35,7 +35,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am a web developer. With nearly 2 years of experience in the industry, I have done many projects for
+            I am a web developer. With more than 2 years of experience in the industry, I have done many projects for
             companies around the world. If you want me to design a website for you, please contact me at the "Let Talk"
             button below so we can work together.
           </p>

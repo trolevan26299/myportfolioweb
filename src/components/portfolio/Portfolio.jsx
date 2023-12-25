@@ -20,8 +20,7 @@ const data = [
     id: 2,
     image: IMG2,
     title: "Restaurant Website ",
-    github:
-      "https://github.com/trolevan26299/restaurantProject_Using_React_FireBase",
+    github: "https://github.com/trolevan26299/restaurantProject_Using_React_FireBase",
     demo: "https://restaurant-project-gamma.vercel.app/",
   },
   {
@@ -71,11 +70,7 @@ const Portfolio = () => {
           return (
             <article key={id} className="portfolio_item">
               <div className="portfolio_item-image">
-                <img
-                  style={{ width: "100%", height: "11rem" }}
-                  src={image}
-                  alt="img"
-                />
+                <img style={{ width: "100%", height: "11rem" }} src={image} alt="img" />
               </div>
               <h3>{title}</h3>
               <div className="portfolio_item-cta">

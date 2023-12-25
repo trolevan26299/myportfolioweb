@@ -109,7 +109,19 @@ const Experience = () => {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>JWT,Multer,Bcrypt,Swagger...</h4>
+                <h4>Socket IO</h4>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Firebase</h4>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Redis</h4>
               </div>
             </article>
             <article className="experience_details">
